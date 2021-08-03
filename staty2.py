@@ -507,3 +507,4 @@ for item in staty:
         else:
             sumPerSubregion[subregion] = value
 print(sumPerSubregion)
+print()
